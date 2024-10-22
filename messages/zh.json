@@ -1,14 +1,14 @@
 {
   "Product": {
     "name": "your mindmap",
-    "solgan": "创意到剧本，AI全程助力。"
+    "solgan": "Claude Prompt：决策与行为背后。"
   },
   "LandingPage": {
     "Index": {
       "title": "ScriptCraft"
     },
     "Hero": {
-      "title": "终极剧本创作工作平台",
+      "title": "一键卡片创作平台",
       "description": "逐场景打造您的故事。使用我们直观的工具和协作功能，提升您的剧本创作过程。",
       "cta": "开始使用"
     },
