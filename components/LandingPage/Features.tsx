@@ -60,7 +60,7 @@ const Features: React.FC = () => {
                   src={feature.imageSrc}
                   alt={t(feature.titleKey)}
                   layout="fill"
-                  objectFit="cover"
+                  objectFit="contain"
                   className="rounded-md"
                 />
               </div>

@@ -8,12 +8,12 @@
       "title": "机会成本与情绪劳动的决策分析"
     },
     "Hero": {
-      "title": "一键生成决策分析与情绪洞察",
-      "description": "通过直观的分析工具和视觉化表现，帮助您发现决策背后的机会成本，以及情绪劳动的隐形付出。",
+      "title": "项目服务人群",
+      "description": "商业决策者、心理学研究者、创业者、人际关系研究者、每一个普通人",
       "cta": "立即体验"
     },
     "Features": {
-      "title": "核心功能",
+      "title": "项目展示",
       "decisionCostAnalysis": {
         "title": "机会成本分析器",
         "description": "量化每个选择的代价，清晰呈现您所放弃的选项。"
@@ -74,7 +74,7 @@
       "copyright": "© 2024 Decision Insight。保留所有权利。"
     },
     "ProductShowcase": {
-      "title": "精准剖析每一个选择与感受",
+      "title": "项目技术与原理",
       "imageAlt": "Decision Insight分析界面"
     }
   },
