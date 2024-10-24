@@ -17,20 +17,20 @@ const Features: React.FC = () => {
   const featureData: FeatureItem[] = [
     {
       icon: <MessageSquare className="h-8 w-8 text-purple-500" />,
-      titleKey: "characterProfile.title",
-      descriptionKey: "characterProfile.description",
+      titleKey: "decisionCostAnalysis.title",
+      descriptionKey: "decisionCostAnalysis.description",
       imageSrc: "/images/character-profile.png"
     },
     {
       icon: <FileText className="h-8 w-8 text-purple-500" />,
-      titleKey: "storyStructure.title",
-      descriptionKey: "storyStructure.description",
+      titleKey: "emotionalLaborInsight.title",
+      descriptionKey: "emotionalLaborInsight.description",
       imageSrc: "/images/story-structure.png"
     },
     {
       icon: <Play className="h-8 w-8 text-purple-500" />,
-      titleKey: "sceneEditor.title",
-      descriptionKey: "sceneEditor.description",
+      titleKey: "svgCardGeneration.title",
+      descriptionKey: "svgCardGeneration.description",
       imageSrc: "/images/scene-editor.png"
     },
     {
